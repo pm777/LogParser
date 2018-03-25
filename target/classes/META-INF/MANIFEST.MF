@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: PM
+Class-Path: commons-cli-1.4.jar commons-io-2.6.jar mysql-connector-jav
+ a-5.1.39.jar
+Build-Jdk: 1.8.0_144
+Created-By: Maven Integration for Eclipse
+
